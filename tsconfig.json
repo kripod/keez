@@ -1,0 +1,14 @@
+{
+	"compilerOptions": {
+		"noEmit": true,
+		"strict": true,
+		"target": "ES2015",
+		"module": "ESNext",
+		"moduleResolution": "Node",
+		"isolatedModules": true,
+		"declaration": true,
+		"declarationMap": true,
+		"forceConsistentCasingInFileNames": true,
+		"importsNotUsedAsValues": "error",
+	},
+}
