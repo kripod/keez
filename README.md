@@ -5,6 +5,8 @@ Frictionless hotkey handling for browsers.
 ## Usage
 
 ```js
+import { captureKeys } from "keez";
+
 const saveCommand = captureKeys("CmdOrCtrl", "S");
 const italicCommand = captureKeys("CmdOrCtrl", "I");
 
