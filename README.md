@@ -2,6 +2,9 @@
 
 Frictionless hotkey handling for browsers
 
+[![npm](https://img.shields.io/npm/v/keez)](https://www.npmjs.com/package/keez)
+[![npm bundle size](https://img.shields.io/bundlephobia/minzip/keez)](https://bundlephobia.com/result?p=keez)
+
 ## Usage
 
 ```js
