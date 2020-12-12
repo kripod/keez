@@ -1,6 +1,6 @@
 # keez
 
-Frictionless hotkey handling for browsers.
+Frictionless hotkey handling for browsers
 
 ## Usage
 

@@ -1,7 +1,7 @@
 {
 	"name": "keez",
 	"version": "1.0.0",
-	"description": "Frictionless hotkey handling for browsers.",
+	"description": "Frictionless hotkey handling for browsers",
 	"keywords": [
 		"hotkey",
 		"shortcut",
